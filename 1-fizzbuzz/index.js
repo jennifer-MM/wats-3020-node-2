@@ -1,8 +1,8 @@
 /*
-Description:
-Input:
-Output:
-Usage: 
+Description:This program will look for an integer argument
+Input:integer
+Output:list of all values from 1 to the value of the integer
+Usage: node 1-fizzbuzz
 */
 
 // get input using getargs

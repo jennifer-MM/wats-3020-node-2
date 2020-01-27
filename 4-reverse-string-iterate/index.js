@@ -34,14 +34,14 @@ function reverseWithHalfIteration(str){
     return result.join('')
 }
 //test that it is a string
-//TODO check for string argument and if no string is entered provide a usage statement and quit
+
 if (!input) {
     console.log("usage: node 4-reverse-string-iterate <string>");
-    // TODO provide a usage statement
+   
 } else {
     // use functions to reverse string
     console.log("result with full iteration", reverseWithFullIteration(input));
 
-    // STRETCH TODO output the result of your reverseWithHalfIteration function
+   
 
 }
